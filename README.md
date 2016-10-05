@@ -7,6 +7,8 @@
 + [principles-of-machine-learning](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.2x+6T2016/info)
 + [applied-machine-learning](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.3x+5T2016/info)
 + [developing-intelligent-apps](https://www.edx.org/course/developing-intelligent-apps-microsoft-dat211x)
++ [implementing-predictive-solutions-with-spark-in-azure-hDInsight](https://www.edx.org/course/implementing-predictive-solutions-spark-microsoft-dat202-3x-1)
++ [data-science-professional-project](https://www.edx.org/course/data-science-professional-project-microsoft-dat102x-0)
 + [learning-from-data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x#!)
 + [machine-learning-for-data-science-and-analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-0)
 + [machine-learning-mastery-python](http://machinelearningmastery.com/category/python-machine-learning/)

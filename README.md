@@ -1,6 +1,7 @@
 # machine-learning
 + [understanding-machine-learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [data-school-machine-learning](http://www.dataschool.io/tag/machine-learning/)
++ [data-school-data-science](https://github.com/justmarkham/DAT8)
 + [python-understanding-machine-learning](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
 + [python-programming-net-machine-learning](https://pythonprogramming.net/)
 + [kaggle-nlp-tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial)

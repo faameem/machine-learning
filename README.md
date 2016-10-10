@@ -1,6 +1,10 @@
 # machine-learning
 + [understanding-machine-learning](https://github.com/faameem/machine-learning/tree/master/understanding-machine-learning)
 + [data-school-machine-learning](http://www.dataschool.io/tag/machine-learning/)
++ [machine-learning-mastery-python](http://machinelearningmastery.com/category/python-machine-learning/)
++ [machine-learning-mastery-algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
++ [machine-learning-mastery-deep-learning](http://machinelearningmastery.com/category/deep-learning/)
++ [machine-learning-mastery-xgboost](http://machinelearningmastery.com/category/xgboost/)
 + [data-school-data-science](https://github.com/justmarkham/DAT8)
 + [python-understanding-machine-learning](https://github.com/faameem/machine-learning/tree/master/python-understanding-machine-learning)
 + [python-programming-net-machine-learning](https://pythonprogramming.net/)
@@ -16,12 +20,8 @@
 + [edx-ms-data-science-professional-project](https://www.edx.org/course/data-science-professional-project-microsoft-dat102x-0)
 + [edx-caltech-learning-from-data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x#!)
 + [edx-columbia-machine-learning-for-data-science-and-analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-0)
-+ [machine-learning-mastery-python](http://machinelearningmastery.com/category/python-machine-learning/)
-+ [machine-learning-mastery-deep-learning](http://machinelearningmastery.com/category/deep-learning/)
-+ [machine-learning-mastery-algorithms](http://machinelearningmastery.com/category/machine-learning-algorithms/)
 + [machine-learning-mastery-process](http://machinelearningmastery.com/category/machine-learning-process/)
 + [machine-learning-mastery-resources](http://machinelearningmastery.com/category/machine-learning-resources/)
-+ [machine-learning-mastery-xgboost](http://machinelearningmastery.com/category/xgboost/)
 + [artificial-intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
 + [artificial-intelligence](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
 
